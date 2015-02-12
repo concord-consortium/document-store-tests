@@ -20,7 +20,7 @@
           </elementProp>
           <elementProp name="USER" elementType="Argument">
             <stringProp name="Argument.name">USER</stringProp>
-            <stringProp name="Argument.value">ttest</stringProp>
+            <stringProp name="Argument.value">tteacher</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="PASSWORD" elementType="Argument">
@@ -40,7 +40,7 @@
           </elementProp>
           <elementProp name="AUTH_PORTAL" elementType="Argument">
             <stringProp name="Argument.name">AUTH_PORTAL</stringProp>
-            <stringProp name="Argument.value">cc_portal_has_staging</stringProp>
+            <stringProp name="Argument.value">cc_portal_has_staging_portal</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
         </collectionProp>
